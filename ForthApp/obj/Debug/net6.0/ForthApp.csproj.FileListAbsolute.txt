@@ -1,0 +1,14 @@
+D:\codes\work\second\ForthApp\ForthApp\bin\Debug\net6.0\ForthApp.exe
+D:\codes\work\second\ForthApp\ForthApp\bin\Debug\net6.0\ForthApp.deps.json
+D:\codes\work\second\ForthApp\ForthApp\bin\Debug\net6.0\ForthApp.runtimeconfig.json
+D:\codes\work\second\ForthApp\ForthApp\bin\Debug\net6.0\ForthApp.dll
+D:\codes\work\second\ForthApp\ForthApp\bin\Debug\net6.0\ForthApp.pdb
+D:\codes\work\second\ForthApp\ForthApp\obj\Debug\net6.0\ForthApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\second\ForthApp\ForthApp\obj\Debug\net6.0\ForthApp.AssemblyInfoInputs.cache
+D:\codes\work\second\ForthApp\ForthApp\obj\Debug\net6.0\ForthApp.AssemblyInfo.cs
+D:\codes\work\second\ForthApp\ForthApp\obj\Debug\net6.0\ForthApp.csproj.CoreCompileInputs.cache
+D:\codes\work\second\ForthApp\ForthApp\obj\Debug\net6.0\ForthApp.dll
+D:\codes\work\second\ForthApp\ForthApp\obj\Debug\net6.0\refint\ForthApp.dll
+D:\codes\work\second\ForthApp\ForthApp\obj\Debug\net6.0\ForthApp.pdb
+D:\codes\work\second\ForthApp\ForthApp\obj\Debug\net6.0\ForthApp.genruntimeconfig.cache
+D:\codes\work\second\ForthApp\ForthApp\obj\Debug\net6.0\ref\ForthApp.dll
